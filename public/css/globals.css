@@ -1,0 +1,15 @@
+.themeFontColor {
+  color: coral;
+}
+
+tr {
+  cursor: pointer;
+}
+button{
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+.text-primary{
+  color: blue;
+}
